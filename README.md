@@ -1,6 +1,57 @@
-# Getting Started with Create React App
+## BTC Node Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create a dashboard to review bitcoin node statistics.
+
+## Motivation
+
+This project is meant to be a portfolio piece to familiarize yourself with the bitcoin network, specifically bitcoin node data.
+
+## Design Specs
+
+Here is a link to a design mockup < insert design >
+
+## Tech/framework used
+
+React
+
+## Project Installation
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+## API Reference
+
+#### Front End Deployment
+
+()
+
+#### Backend API
+
+()
+
+## How to Use
+
+
+
+## Contribute
+
+Contribute to this project by forking the repo and creating your own.
+
+## License
+
+©MIT
+
+## Contributors
+
+[Peter Conley](https://github.com/peterdavidconley)
+
 
 ## Available Scripts
 
