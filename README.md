@@ -1,6 +1,6 @@
 ## BTC Node Project
 
-Create a dashboard to review bitcoin node statistics.
+Create a web application with a dashboard to review bitcoin node statistics.
 
 ## Motivation
 
@@ -8,7 +8,7 @@ This project is meant to be a portfolio piece to familiarize yourself with the b
 
 ## Design Specs
 
-Here is a link to a design mockup < insert design >
+Here is a link to a design mockup:
 
 ## Tech/framework used
 
@@ -32,13 +32,10 @@ You may also see any lint errors in the console.
 
 ()
 
-#### Backend API
-
-()
-
 ## How to Use
 
-
+1. Create the components with the design from the design link above.
+2. Make the proper API calls to pull in the bitcoin node data.
 
 ## Contribute
 
