@@ -1,6 +1,8 @@
 ## BTC Node Project
 
-Create a web application with a dashboard to review bitcoin node statistics.
+Create a web application with a dashboard to review bitcoin node statistics. A bitcoin node is the small server that holds either a partial copy or the entire copy of the bitcoin ledger. Nodes are distinct from mining machines, they do not contribute any processing power to the network. As of right now, there are tens of thousands of nodes plugged into the bitcoin network.
+
+Visit [Bitcoinnodes.io](https://bitnodes.io/) for reference.
 
 ## Motivation
 
