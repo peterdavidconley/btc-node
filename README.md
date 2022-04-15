@@ -10,7 +10,7 @@ This project is meant to be a portfolio piece to familiarize yourself with the b
 
 ## Design Specs
 
-Here is a link to a design mockup:
+Here is a link to a design mockup: [Design Link]()
 
 ## Tech/framework used
 
