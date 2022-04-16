@@ -38,6 +38,7 @@ You may also see any lint errors in the console.
 
 1. Create the components with the design from the design link above.
 2. Make the proper API calls to pull in the bitcoin node data.
+3. Create filtering function and filtering UI
 
 ## Contribute
 
