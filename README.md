@@ -30,9 +30,6 @@ You may also see any lint errors in the console.
 
 ## API Reference
 
-#### Front End Deployment
-
-()
 
 ## How to Use
 
